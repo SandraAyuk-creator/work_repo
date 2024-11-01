@@ -1,1 +1,2 @@
 all introductions concerning the work terminologies will be saved in this file for clarity
+ok, so you wish to have introduction and conclusion files seoarately? thats ok.
